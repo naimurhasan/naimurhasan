@@ -1,4 +1,4 @@
-![Banner Image](https://i.ibb.co/ysG7HHD/coding-bg.png)
+![Banner Image](https://github.com/naimurhasan/naimurhasan/blob/refactor/naimurhasan-github-banner-i.png)
 
 
 [![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimurhasan&show_icons=true&theme=tokyonight)](https://github.com/naimurhasan/github-readme-stats)
