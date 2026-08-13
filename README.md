@@ -1,12 +1,17 @@
 ![Banner Image](https://github.com/naimurhasan/public-files/blob/master/others/naimurhasan-github-banner-c.png?raw=true)
-
+ 
 ### Hi there 👋 I'm,
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=040E13&width=435&lines=Naimur+Hasan...;Software+Engineer;Full+Stack+Developer;Cross+Platform+Mobile+Developer;)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### Welcome 🎉 
+to my GitHub! Here are some ideas about me:
 
-- 🔭 I’m currently working on a software to develop rural co-operative society with PHP-Laravel 
-- 🌱 I’m currently learning Python-Django
+- Full-stack developer with experience in mobile application development
+- Passionate about learning and working with new technologies
+- Currently working at beFair Education
+- Focused on building scalable and robust applications
+- Proficient in a variety of programming languages and frameworks
+- Strong problem-solving and collaboration skills
 
 <!--
 **naimurhasan/naimurhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
