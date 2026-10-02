@@ -1,17 +1,19 @@
-![Banner Image](https://github.com/naimurhasan/public-files/blob/master/others/naimurhasan-github-banner-c.png?raw=true)
- 
-### Hi there 👋 I'm,
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Naimur+Hasan...;Software+Engineer;Full+Stack+Developer;Cross+Platform+Mobile+Developer;)](https://git.io/typing-svg)
+<h3>Hi there 👋 This is Naimur Hasan. I'm a</h3>
+<img align="right" height="240" src="https://github.com/naimurhasan/naimurhasan/blob/edit/naimurhasan-github-banner-e.png?raw=true" />
 
-### Welcome 🎉 
-to my GitHub! Here are some ideas about me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&height=30&lines=Software+Engineer;Full+Stack+Developer;Cross+Platform+Mobile+Developer;)](https://git.io/typing-svg)
 
-- Full-stack developer with experience in mobile application development
-- Passionate about learning and working with new technologies
-- Currently working at beFair Education
-- Focused on building scalable and robust applications
-- Proficient in a variety of programming languages and frameworks
-- Strong problem-solving and collaboration skills
+<h3>
+Here are some ideas about me:
+</h3>
+<ul>
+ <li>Full-stack developer with experience in mobile application development </li>
+ <li>Passionate about learning and working with new technologies</li>
+ <li>Currently working at beFair Education</li>
+ <li>Focused on building scalable and robust applications</li>
+ <li>Proficient in a variety of programming languages and frameworks</li>
+ <li>Strong problem-solving and collaboration skills</li>
+</ul>
 
 ### Some Stats
 
